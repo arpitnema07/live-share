@@ -1,4 +1,3 @@
 qr
 flask
-socket
 flask_socketio
